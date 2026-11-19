@@ -1,0 +1,14 @@
+numpy
+pandas
+scipy
+scikit-learn
+imbalanced-learn
+xgboost
+joblib
+torch
+transformers==4.40.0
+matplotlib
+seaborn
+wordcloud
+kagglehub
+jupyter
